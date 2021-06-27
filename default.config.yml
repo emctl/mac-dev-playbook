@@ -71,6 +71,7 @@ homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
 #  - chromedriver
   - docker
+  - visual-studio-code
 #  - dropbox
 #  - firefox
 #  - google-chrome
