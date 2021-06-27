@@ -1,0 +1,20 @@
+homebrew_installed_packages:
+  - git
+  - go
+  - wget
+
+#mas_installed_apps:
+#  - { id: 443987910, name: "1Password" }
+#  - { id: 497799835, name: "Xcode" }
+
+configure_dock: true
+dockitems_remove:
+  - Launchpad
+  - TV
+  - Podcasts
+  - 'App Store'
+
+homebrew_cask_apps:
+  - docker
+  - visual-studio-code
+  - lastpass
