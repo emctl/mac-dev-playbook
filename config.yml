@@ -2,6 +2,8 @@ homebrew_installed_packages:
   - git
   - go
   - wget
+  - zsh-history-substring-search
+
 
 #mas_installed_apps:
 #  - { id: 443987910, name: "1Password" }
