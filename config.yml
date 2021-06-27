@@ -9,6 +9,8 @@ homebrew_installed_packages:
 #  - { id: 443987910, name: "1Password" }
 #  - { id: 497799835, name: "Xcode" }
 
+dotfiles_repo: https://github.com/emctl/dotfiles.git
+
 configure_dock: true
 dockitems_remove:
   - Launchpad
