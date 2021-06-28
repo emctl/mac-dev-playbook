@@ -12,6 +12,14 @@ homebrew_installed_packages:
 dotfiles_repo: https://github.com/emctl/dotfiles-1.git
 dotfiles_repo_version: emctl-testing
 
+dotfiles_files:
+  - .zshrc
+  - .gitignore
+  - .aliases
+  - .inputrc
+  - .osx
+  - .vimrc
+
 configure_dock: true
 dockitems_remove:
   - Launchpad
@@ -23,6 +31,10 @@ dockitems_remove:
   - Numbers
   - Pages
   - Settings
+  - FaceTime
+  - Reminders
+  - News
+  - Maps
 
 homebrew_cask_apps:
   - docker
