@@ -6,7 +6,6 @@ homebrew_installed_packages:
   - kubectl
   - helm
   - minikube
-  - docker
 
 
 
@@ -45,3 +44,4 @@ dockitems_remove:
 homebrew_cask_apps:
   - visual-studio-code
   - lastpass
+  - docker
