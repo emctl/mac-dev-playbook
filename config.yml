@@ -3,6 +3,7 @@ homebrew_installed_packages:
   - go
   - wget
   - zsh-history-substring-search
+  - kubectl
 
 
 #mas_installed_apps:
