@@ -13,9 +13,10 @@ dotfiles_repo: https://github.com/emctl/dotfiles-1.git
 dotfiles_repo_version: emctl-testing
 
 dotfiles_files:
-  - .zshrc
   - .gitignore
   - .aliases
+  - .p10k.zsh
+  - .zshrc
   - .inputrc
   - .osx
   - .vimrc
