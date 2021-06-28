@@ -4,6 +4,9 @@ homebrew_installed_packages:
   - wget
   - zsh-history-substring-search
   - kubectl
+  - helm
+  - minikube
+
 
 
 #mas_installed_apps:
