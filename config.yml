@@ -6,6 +6,7 @@ homebrew_installed_packages:
   - kubectl
   - helm
   - minikube
+  - mas
 
 
 
@@ -45,3 +46,4 @@ homebrew_cask_apps:
   - visual-studio-code
   - lastpass
   - docker
+  - notion
