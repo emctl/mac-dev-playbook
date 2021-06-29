@@ -10,9 +10,9 @@ homebrew_installed_packages:
 
 
 
-#mas_installed_apps:
-#  - { id: 443987910, name: "1Password" }
-#  - { id: 497799835, name: "Xcode" }
+mas_installed_apps:
+  - { id: 1402042596, name: "AdBlock for Safari" }   
+  - { id: 1481302432, name: "Instapaper Save" }
 
 dotfiles_repo: https://github.com/emctl/dotfiles-1.git
 dotfiles_repo_version: emctl-testing
@@ -47,3 +47,4 @@ homebrew_cask_apps:
   - lastpass
   - docker
   - notion
+
