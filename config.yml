@@ -8,12 +8,6 @@ homebrew_installed_packages:
   - minikube
   - mas
 
-
-
-mas_installed_apps:
-  - { id: 1402042596, name: "AdBlock for Safari" }   
-  - { id: 1481302432, name: "Instapaper Save" }
-
 dotfiles_repo: https://github.com/emctl/dotfiles-1.git
 dotfiles_repo_version: emctl-testing
 
