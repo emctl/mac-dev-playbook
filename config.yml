@@ -8,6 +8,7 @@ homebrew_installed_packages:
   - minikube
   - mas
   - pipenv
+  - pyenv
 
 dotfiles_repo: https://github.com/emctl/dotfiles-1.git
 dotfiles_repo_version: emctl-testing
