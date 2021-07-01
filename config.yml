@@ -1,6 +1,6 @@
 homebrew_installed_packages:
   - git
-  - go
+  - goenv
   - wget
   - zsh-history-substring-search
   - kubectl
