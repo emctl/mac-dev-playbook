@@ -43,4 +43,5 @@ homebrew_cask_apps:
   - lastpass
   - docker
   - notion
+  - steam
 
