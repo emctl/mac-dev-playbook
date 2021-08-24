@@ -8,6 +8,13 @@ homebrew_installed_packages:
   - mas
   - pipenv
   - pyenv
+  - npm
+  - tfenv 
+  
+npm_packages:
+  - name: cdk8s-cli
+  - name: cdktf-cli
+
 
 dotfiles_repo: https://github.com/emctl/dotfiles-1.git
 dotfiles_repo_version: emctl-testing
