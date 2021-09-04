@@ -10,14 +10,11 @@ homebrew_installed_packages:
   - pyenv
   - npm
   - tfenv 
-  - ruby
+  - terraspace
   
 npm_packages:
   - name: cdk8s-cli
   - name: cdktf-cli
-
-gem_packages: 
-  - name: terraspace
 
 dotfiles_repo: https://github.com/emctl/dotfiles-1.git
 dotfiles_repo_version: emctl-testing
@@ -47,6 +44,11 @@ dockitems_remove:
   - Reminders
   - News
   - Maps
+
+homebrew_taps:
+  - homebrew/core
+  - homebrew/cask
+  - boltops-tools/software
 
 homebrew_cask_apps:
   - visual-studio-code
