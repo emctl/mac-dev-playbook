@@ -12,6 +12,8 @@ homebrew_installed_packages:
   - tfenv 
   - terraspace
   - skaffold
+  - hyperkit
+  - docker
   
 npm_packages:
   - name: cdk8s-cli
@@ -54,7 +56,12 @@ homebrew_taps:
 homebrew_cask_apps:
   - visual-studio-code
   - lastpass
-  - docker
   - notion
   - steam
+ 
+# mas_email: ""
+# mas_password: "" 
+# mas_installed_apps: 
+#   - 497799835 # Xcode
+
 
