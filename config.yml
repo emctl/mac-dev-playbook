@@ -1,20 +1,4 @@
-homebrew_installed_packages:
-  - git
-  - wget
-  - zsh-history-substring-search
-  - kubectl
-  - helm
-  - minikube
-  - mas
-  - pipenv
-  - pyenv
-  - npm
-  - tfenv 
-  - terraspace
-  - skaffold
-  - hyperkit
-  - docker
-  
+
 npm_packages:
   - name: cdk8s-cli
   - name: cdktf-cli
@@ -47,21 +31,4 @@ dockitems_remove:
   - Reminders
   - News
   - Maps
-
-homebrew_taps:
-  - homebrew/core
-  - homebrew/cask
-  - boltops-tools/software
-
-homebrew_cask_apps:
-  - visual-studio-code
-  - lastpass
-  - notion
-  - steam
- 
-# mas_email: ""
-# mas_password: "" 
-# mas_installed_apps: 
-#   - 497799835 # Xcode
-
 
