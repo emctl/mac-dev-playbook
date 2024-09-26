@@ -1,0 +1,47 @@
+homebrew_installed_packages: []
+  
+npm_packages:
+  - name: cdk8s-cli
+  - name: cdktf-cli
+
+dotfiles_repo: https://github.com/emctl/dotfiles-1.git
+dotfiles_repo_version: emctl-testing
+dotfiles_repo_local_destination: ~/Documents/git/dotfiles-1
+
+homebrew_brewfile_dir: ~/Documents/git/dotfiles-1
+
+dotfiles_files:
+  - .gitignore
+  - .aliases
+  - .p10k.zsh
+  - .zshrc
+  - .inputrc
+  - .osx
+  - .vimrc
+
+configure_dock: true
+dockitems_remove:
+  - Launchpad
+  - TV
+  - Podcasts
+  - 'App Store'
+  - Contacts
+  - Keynote
+  - Numbers
+  - Pages
+  - Settings
+  - FaceTime
+  - Reminders
+  - News
+  - Maps
+
+homebrew_taps: []
+
+homebrew_cask_apps: []
+ 
+# mas_email: ""
+# mas_password: "" 
+# mas_installed_apps: 
+#   - 497799835 # Xcode
+
+
